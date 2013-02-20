@@ -1,1 +1,1 @@
-Simple Data Table - JSF 2
+Simple Data Table - JSF 2 - NetBeans IDE
